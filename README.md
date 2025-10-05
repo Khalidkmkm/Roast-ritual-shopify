@@ -9,7 +9,7 @@ Jag valde att använda **Shopify**, en SaaS-plattform som erbjuder enkel hanteri
 
 ## Funktioner
 - 20 kaffeprodukter (Espresso Roast, Colombian Supremo, m.fl.)
-- 5 kategorier (Espresso, Mellanrost, Mörkrost, Ljusrost, Ursprung)
+- 5 kategorier
 - Inbyggd sökfunktion
 - Kundvagn och orderhantering
 - Stripe via Shopify Payments (i testläge)
