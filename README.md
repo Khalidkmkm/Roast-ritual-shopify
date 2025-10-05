@@ -14,7 +14,7 @@ Jag valde att använda **Shopify**, en SaaS-plattform som erbjuder enkel hanteri
 - Kundvagn och orderhantering
 - Stripe via Shopify Payments (i testläge)
 - Responsiv design (Dawn-tema)
-- Egna texter och bilder (anpassade till varumärket Roast & Ritual)
+- Egna texter (anpassade till varumärket Roast & Ritual)
 
 ## Testläge
 Betalningar körs i testläge med testkortnummer `4242 4242 4242 4242`.
